@@ -9,7 +9,7 @@ int main(){
 }
 
 int fact(int n, int k){
-    if (n==1){
+    if (n==0){
         return k;
     }
     else {
