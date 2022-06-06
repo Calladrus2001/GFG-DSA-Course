@@ -1,0 +1,2 @@
+1. subset generation
+2. josephus problem
