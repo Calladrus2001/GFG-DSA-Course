@@ -4,6 +4,7 @@
 using namespace std;
 
 // in selectionSort, we continously select the min element.
+// its space efficient as no temp arr is needed.
 
 class Solution {
     public:
