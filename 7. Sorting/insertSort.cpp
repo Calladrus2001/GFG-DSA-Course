@@ -25,7 +25,7 @@ int main(){
     Solution s = Solution();
     vector<int> arr = {1,3,4,2,5};
     vector<int> soln = s.insertSort(arr);
-     for (int i = 0; i < soln.size(); i++){
+    for (int i = 0; i < soln.size(); i++){
         cout << soln[i] << " ";
     }
 }
